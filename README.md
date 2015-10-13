@@ -15,7 +15,7 @@ Março de 2016.
 
 ## Sistema
 
-- Desktop - Node-webckit ou Electron
+- Desktop - Node-Webkit ou Electron
 - Web - Webtorrent
 - Mobile - React Native ou NativeScript
 
@@ -44,6 +44,7 @@ Março de 2016.
   - Feedback
   - Comentários
   - Perguntas
+  - Chamada de video Privada com [WebRTC](http://www.webrtc.org/)
 - Criar/Gerenciar grupos de estudo 
 - Enviar para seus alunos
   - Notícias relevantes aos seus cursos
