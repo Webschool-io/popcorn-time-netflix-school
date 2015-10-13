@@ -19,7 +19,7 @@ Março de 2016.
 - Web - Webtorrent
 - Mobile - React Native ou NativeScript
 
-### P/ Alunos
+### Para Alunos
 
 - Listagem de todos os videos agrupados por curso e por tema;
 - Busca por qualquer termo;
@@ -34,6 +34,24 @@ Março de 2016.
 - Avaliar com uma nota a vídeo/aula;
 - Enviar feedback ao professor vídeo/aula (privado);
 
+### Para Professores
+
+- Upload de aula
+  - Youtube
+  - Vimeo
+  - Torrent
+- Responder
+  - Feedback
+  - Comentários
+  - Perguntas
+- Criar/Gerenciar grupos de estudo 
+- Enviar para seus alunos
+  - Notícias relevantes aos seus cursos
+  - Perguntas de fixação
+  - Exercícios
+  - Etc.
+   
+  
 ## Projeto final
 
 Uma aplicação feita por todos e utilizada por todos para disseminarem de forma descentralizada todo o conhecimento gerado por nós.
