@@ -33,3 +33,9 @@ Março de 2016.
 - Buscar perguntas em um FAQ na vídeo/aula;
 - Avaliar com uma nota a vídeo/aula;
 - Enviar feedback ao professor vídeo/aula (privado);
+
+## Projeto final
+
+Uma aplicação feita por todos e utilizada por todos para disseminarem de forma descentralizada todo o conhecimento gerado por nós.
+
+<3
