@@ -17,7 +17,7 @@ Março de 2016.
 
 - Desktop - Node-webckit ou Electron
 - Web - Webtorrent
-- Mobile - Ionic
+- Mobile - React Native ou NativeScript
 
 ### P/ Alunos
 
