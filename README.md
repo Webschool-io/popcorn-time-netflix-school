@@ -13,7 +13,13 @@ Março de 2016.
 - JavaScript intermediário
 - certificação Be MEAN
 
-### Alunos
+## Sistema
+
+- Desktop - Node-webckit ou Electron
+- Web - Webtorrent
+- Mobile - Ionic
+
+### P/ Alunos
 
 - Listagem de todos os videos agrupados por curso e por tema;
 - Busca por qualquer termo;
